@@ -6,7 +6,6 @@ tags: [docker]]
 ---
 
 # A Complete Journey through Docker's Core Concepts | Docker 360
-url: ![docekr m60 ](image.png)
 Introduction And Architecture
 Docker is an open container management platform. It is a software platform used to run applications contained within containers. Docker helps you separate your applications from your infrastructure, allowing you to deliver software quickly.
 
