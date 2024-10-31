@@ -38,11 +38,11 @@ social:
   email: admin@raoshahzaib.site # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://twitter.com/zabirao29 # change to your Twitter homepage
+    - https://github.com/ShahzaibRao # change to your GitHub homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.facebook.com/raoshazhaib
+    - https://www.linkedin.com/in/rao-shahzaib/
 
 # Site Verification Settings
 webmaster_verifications:
